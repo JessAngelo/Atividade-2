@@ -1,6 +1,2 @@
-<<<<<<< HEAD:.gitattributes
 # Auto detect text files and perform LF normalization
-=======
-# Auto detect text files and perform LF normalization
->>>>>>> c87d57f992a3b92be6729a590641a12680e7dd1f:trabalho/.gitattributes
 * text=auto
